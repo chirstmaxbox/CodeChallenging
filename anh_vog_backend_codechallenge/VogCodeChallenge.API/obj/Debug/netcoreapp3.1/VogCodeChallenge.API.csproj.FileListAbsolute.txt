@@ -17,3 +17,4 @@ C:\Users\anh_t\Downloads\CodeChallenging\anh_vog_backend_codechallenge\VogCodeCh
 C:\Users\anh_t\Downloads\CodeChallenging\anh_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.dll
 C:\Users\anh_t\Downloads\CodeChallenging\anh_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.pdb
 C:\Users\anh_t\Downloads\CodeChallenging\anh_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.genruntimeconfig.cache
+C:\Users\anh_t\Downloads\CodeChallenging\anh_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.csprojAssemblyReference.cache

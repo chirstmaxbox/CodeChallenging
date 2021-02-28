@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TA74Um0snakWSFPKrzUos73vgsmpALRKNj+avyPz58epYXILml/YTj5qzLV5SW86W8A1He0sDkx85kgozDTQjg==",
+  "dgSpecHash": "6qzJ+11Z+gayaDcswty6z98JdEdzce/3RpwGWndHNQebcBuBwQ7r9eZTap/ts6PHD6EjcHVuOlPYno3Uo7KptQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\anh_t\\Downloads\\CodeChallenging\\anh_vog_backend_codechallenge\\VogCodeChallenge.API\\VogCodeChallenge.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\anh_t\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
