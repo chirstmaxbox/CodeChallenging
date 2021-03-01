@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2EpSLgTsswwc7L02E9Ivw2mgzivHj51p0U4jl5HywlRyWfRzSmknmVAZQTPT0nebyS2EUv2tJ2oHrB05ORgnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anh_t\\Downloads\\CodeChallenging\\AWSLambda\\AWSLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anh_t\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\anh_t\\.nuget\\packages\\amazon.lambda.dynamodbevents\\1.2.0\\amazon.lambda.dynamodbevents.1.2.0.nupkg.sha512",
+    "C:\\Users\\anh_t\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\anh_t\\.nuget\\packages\\awssdk.core\\3.5.1.27\\awssdk.core.3.5.1.27.nupkg.sha512",
+    "C:\\Users\\anh_t\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.1.5\\awssdk.dynamodbv2.3.5.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

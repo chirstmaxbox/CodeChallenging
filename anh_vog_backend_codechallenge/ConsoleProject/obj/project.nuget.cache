@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ANMf9dE9YJmBeBEN9YUd5RE8pWGIfTjT8EfbFeLAukbU4074anGHbKgviq34SYlysfWEZqzy2W739uNG5HDLxw==",
+  "dgSpecHash": "2RgZ3gX+u3NBEqbGqE0La/gWqM1zjMstP+dGNaRrimOrxjcfY2hmoL7ybS2F6uc+3MwGutOUzUPXqyUJNTfErg==",
   "success": true,
   "projectFilePath": "C:\\Users\\anh_t\\Downloads\\CodeChallenging\\anh_vog_backend_codechallenge\\ConsoleProject\\ConsoleProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\anh_t\\.nuget\\packages\\amazon.lambda.dynamodbevents\\1.2.0\\amazon.lambda.dynamodbevents.1.2.0.nupkg.sha512",
+    "C:\\Users\\anh_t\\.nuget\\packages\\awssdk.core\\3.5.1.27\\awssdk.core.3.5.1.27.nupkg.sha512",
+    "C:\\Users\\anh_t\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.1.5\\awssdk.dynamodbv2.3.5.1.5.nupkg.sha512"
+  ],
   "logs": []
 }
